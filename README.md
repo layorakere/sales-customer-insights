@@ -4,7 +4,7 @@
 
 This project involved analysing sales and customer data in Power BI to examine brand profitability, sales performance, and customer purchasing behaviour. I used Power Query to work with the data and developed dashboard visuals to present key performance indicators and explore differences across brands, customer groups, and purchasing categories.
 
-Beyond presenting the figures, I documented key observations in the dashboard's Key Insights panel. These included identifying Apple as the most profitable brand, examining the share of purchase value attributed to white products, and highlighting February as the month with the lowest customer count.
+The dashboards present key performance indicators and comparisons of brand profitability, monthly customer counts, and purchasing patterns by product colour and customer income level. The analysis highlights Apple's profit contribution and the share of purchase value attributed to white products, while providing a basis for exploring customer activity over the reporting period.
 
 The project demonstrates my approach to turning sales data into visual analysis and communicating findings that can help a business identify areas for further investigation.
 
